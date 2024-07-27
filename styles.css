@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul li,a{
+    list-style-type: none;
+    text-decoration: none;
+}
+header>nav>ul{
+    display: flex;
+}
+header nav ul li{
+    margin-right: 1rem;
+}
